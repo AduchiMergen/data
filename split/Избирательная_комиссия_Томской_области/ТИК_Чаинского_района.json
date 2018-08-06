@@ -1,11 +1,11 @@
 {
   "email": "",
   "expired_date": "2020-12-21",
-  "fax": "(8 (38-257)) 2-12-31",
+  "fax": "21-231",
   "ik_address": "636400, Томская область, Муниципальное образование \"Чаинский район\", Ленинская, 11",
-  "ik_lat": null,
-  "ik_lon": null,
-  "ik_phone": "(8 (38-257)) 2-12-31",
+  "ik_lat": 57.791456,
+  "ik_lon": 82.643324,
+  "ik_phone": "8 (38257)21-231",
   "info_url": "http://www.tomsk.vybory.izbirkom.ru/region/tomsk?action=ik&vrn=4704022116397",
   "persons": [
     {
